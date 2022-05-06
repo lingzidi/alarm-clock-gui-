@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-mediator-347915",
+  "private_key_id": "9b2096b1316758ca79f1c05277f7c3177e874449",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqe644oqT1pNHc\nmLNg/OL6RhFZMluOR2nCz+i3/Z54SDLBbsafFBTpaRyQ2oosF/jRZI5nl+ddMlGt\nSnI6a7CXabuTZopv5spKPfQqKUq7sQDYD1YXxHRisqq8vqWYBRTCGk7NPy5p3OjB\nt+fYWp06IwiUzxPQOjZQUsv/dcFnBfwY32ng4H1EW6jSMmE5TVBQyFML+Kwb+vPD\nPq6Q48gET6MwlbQNQ1EDovx4oLN9f+Y1v1T1VnZSiKVp0oVheCZ9Ll+12Jhu9hXo\n70q2QedEw+IrgW7R6ARp429lhP0Z4Fi296eiyPL4QIlSI4N9PfFuNMbf7AjZIEo4\nTKS3Nv0vAgMBAAECggEACINYHO+M7Rou40MmLeLPFhUOEF6xOBS47uXRTuNRhxuC\n1yPoXOJbIF6lZX4FVmM2mU59B58UgQjiA4bkIeGUTXUrt8bqo/QkpUqpQhBsckQ2\naqG6dIr+YgL0OZTE6Q0z/gEqVChn5FfbgmITXLE+PP7tKjHsR/Un/3mmb0t0iL0G\n0alGS3+5qwQS62n41M7DvFTtktZLpsVwn5xWRhTYazPMks/bamrtIQRfrK9T1jo3\nEuG6QQnQSgbww+9yum6NMYmIJ7v5SJRlQAfo7At9QMY12rGviu7w/yuKtL4Py/qB\nCqgIPCpO9ibV+zcgXSFFld69y6fJQqZCZBr1G/8xwQKBgQD6UgLy0XBw5mBs+m4Z\nYzxaiA02i8d2S4BZErFZvROWfco/m3vr+24r9RTst0fx8FdZxWGUHwSPapHxVKQB\ny9mXgg/f/wup1rwgyaraaSIAdewTjYKhParKHtqmS/x7xnmWwlqMyK3QpKSt5vej\npQRz6Jt9CRBbkUB2GfiZU36EDwKBgQDvza2l1pQBUCE6+oBOHClpunUWy1gxo/SX\nJzrmLZI0tX7jno/EAqKYllIggQGwAM3f/3wUXQcAnj0Uviz3NaqSI/SPt3OmAikc\n/iknkHZQjVkVmVIQOqky3fdg+B3h49Xg067C+iYkynN571naAdBTVKOBqoRAwIRQ\nAWNCo1BU4QKBgQD0YI5qWhfo0LBAlDhaZqwsQfiMUOgYz9rsmrgzwMhXulRxxqyz\nlFJZbbnQ45nEU/wjMvRxc9qy3LrAHP7ElivGov42kzriwzYE2H0JH2xHgNhJunRW\nT+rlyjtx8Gr8t6ZKjVFzchNmxuXStNL8mwR+2A68gdXLX0HMSsyNe5re9wKBgAvt\ns0GYluwpzD1e0JsSE41K1SA5JT3y5evO68MfaTJuBM3VyVj6uJPWhmdPg4H5yEPo\nNYfdyMdjF668dwglB0MVvsiXW41adikXC30IVppTLadBZS+he2EoYXHVZcciyjTQ\n0tSoFNWnrG7YVSPfCznZ7/g3PzTpXquMJh/ed9SBAoGBAI5Kwc8hmlbkn1w5BZlR\n4yL+NloUVEzx9xXjHoPHlzrWWdPWWSa6hMMDeIgp7hmfywWpc8skmX9A3Lhe4A76\nStE0Sok197to8wBNUKUtnDij0rQJoVrRRCFlSfFUPhMq+cKPRotuhnFO6lqzyLqS\nvX88nUvlX7y2KfYezFaP26EE\n-----END PRIVATE KEY-----\n",
+  "client_email": "hk-pingshan-clear-water-bay-ro@e-mediator-347915.iam.gserviceaccount.com",
+  "client_id": "101459053778706090806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hk-pingshan-clear-water-bay-ro%40e-mediator-347915.iam.gserviceaccount.com"
+}
